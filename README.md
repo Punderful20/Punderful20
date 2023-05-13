@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Punderful20
-- 👀 I’m interested in coding, gaming and math.
+- 👀 I’m interested in coding, gaming, writing and math.
 - 🌱 I’m currently learning C#/Unity
 - 💞️ I’m looking to collaborate on Gaming/Coding Projects
 - 📫 How to reach me phss.alex.hedrick2@gmail.com
